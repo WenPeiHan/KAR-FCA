@@ -1,6 +1,6 @@
 # KAR-FCA
 This repository contains the official implementation of our project:
-**A Knowledge-Augmented Multi-Stage Reasoning Approach for Wind Turbine Fault Cause Analysis**
+**A Knowledge-Augmented Multi-Stage Reasoning Approach for Wind Turbine Fault Cause Analysis.**
 The method is designed to provide **interpretable, accurate, and knowledge-driven analysis** by integrating multiple stages of reasoning. Specifically, the approach consists of the following four key components:
 1. **Event and Relation Extraction**: Automatically extracts key events and their semantic relationships (e.g., causal or temporal) from user's query.
 2. **Funnel-based Subgraph Retrieval**: Retrieves a relevant subgraph from a large-scale knowledge graph using a coarse-to-fine semantic filtering strategy.
